@@ -1,2 +1,3 @@
-# test-repository
-Second test update
+# Trying my first repo
+
+Learning how GitHub works
